@@ -1,7 +1,3 @@
-# git-essentials
-## Deployment Notes
-Lorem Ipsum Text
-## Staging Notes
-Lorem Ipsum Text
-## How to use this rep Notes
-Lorem Ipsum Text 
+# Git-Eessentials / Git for Everybody
+This is course teaches you how to use the everyday Git.
+Course Created by Kalob Taulien
